@@ -1,0 +1,141 @@
+/* monkey character style */
+.mc-img {
+    transform: scale(0.35);
+    position: absolute;
+    top: -40%;
+}
+
+/* button style */
+.go-btn {
+    position: absolute; 
+    z-index: 1; /* to ensure the button appears above other elements */
+    top: 90%;
+    left: 90%;
+    transform: scale(4.0);
+    background: linear-gradient(to bottom, #ffd700, #f8c13c); 
+    border: 2px solid #f0b000; 
+    color: white; 
+    padding: 5px 20px; 
+    border-radius: 25px;
+    box-shadow: inset -3px -3px 10px rgba(255, 255, 255, 0.5), /* Inner shadows for highlights */
+                inset 3px 3px 10px rgba(0, 0, 0, 0.2), /* Inner shadows for depth */
+                0 5px #e0a931; /* Outer shadow */
+    font-weight: bold; 
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+/* back arrow style */
+.arrow-button {
+    background:linear-gradient(to left, rgb(145, 248, 145), green);
+    width: 100px; 
+    height: 100px; 
+    border-radius: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    border: none; 
+    outline: none; 
+    position: absolute;
+    top: 5%;
+    left: 2.5%;
+    transform: scale(1.5);
+}
+.fa{
+    color: white;
+    transform: scale(3.5);
+}
+
+/* progress bar style */
+.top-bar {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.progressbar {
+    width: 40%;  
+    height: 55px;
+    border-radius: 10px;  
+    overflow: hidden; /* Ensures the border-radius is applied to the stripes */
+}
+.bar-banana{
+    position: absolute;
+    top: -1%;
+    left: 67%;
+    z-index: 2;
+}
+
+/* banana style */
+.hand-banana{
+    position: absolute;
+    top: 70%;
+    left: 57%;
+    z-index: 2;
+}
+.banana-1{
+    position: absolute;
+    top: 6%;
+    left: 50%;
+    z-index: 2;
+}
+.banana-2{
+    position: absolute;
+    top: 10%;
+    left: 55%;
+    z-index: 2;
+}
+.banana-3{
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    z-index: 2;
+}
+.banana-4{
+    position: absolute;
+    top: 17%;
+    left: 53%;
+    z-index: 2;
+}
+.banana-5{
+    position: absolute;
+    top: 17%;
+    left: 47%;
+    z-index: 2;
+}
+
+/* instructions screen */
+.instructions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 45%;
+    left: 20%;
+}
+.i-card{
+    background-color: white !important;
+    height: 650px !important;
+    width: 500px !important;
+}
+.card-text{
+    font-size: 40px;
+    text-align: center;
+}
+.card-number{
+    font-size: 25px;
+    height: 40px;
+    width: 30px;
+    background-color: green;
+    color: white;
+}
+.c-1{
+    
+    color:rgb(238, 138, 248);
+}
+.c-2{
+    color:rgb(50, 130, 246);
+}
+.c-3{
+    color: orange;
+}
+.card-container{position: absolute ; left: 5%;top: 0}
+.pink-card{height: 200px !important; width: 200px !important; transform: rotate(-30deg); position: absolute ; left: 5%;top: 10%}
+.blue-card{height: 200px !important; width: 200px !important; transform: rotate(30deg); position: absolute ; left: 40%;top: 40%;}
