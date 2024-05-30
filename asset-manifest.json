@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BrightChamp-Assignment/static/css/main.c4b45f0e.css",
+    "main.css": "/BrightChamp-Assignment/static/css/main.558a7b59.css",
     "main.js": "/BrightChamp-Assignment/static/js/main.2bfca480.js",
     "static/js/453.022b4fbf.chunk.js": "/BrightChamp-Assignment/static/js/453.022b4fbf.chunk.js",
     "static/media/monkey.png": "/BrightChamp-Assignment/static/media/monkey.aa3e44a164790fd4ef4a.png",
@@ -18,12 +18,12 @@
     "static/media/P.jpg": "/BrightChamp-Assignment/static/media/P.75368e882d851c0440b8.jpg",
     "static/media/C.jpg": "/BrightChamp-Assignment/static/media/C.9fa888e3236d7f37d8e1.jpg",
     "index.html": "/BrightChamp-Assignment/index.html",
-    "main.c4b45f0e.css.map": "/BrightChamp-Assignment/static/css/main.c4b45f0e.css.map",
+    "main.558a7b59.css.map": "/BrightChamp-Assignment/static/css/main.558a7b59.css.map",
     "main.2bfca480.js.map": "/BrightChamp-Assignment/static/js/main.2bfca480.js.map",
     "453.022b4fbf.chunk.js.map": "/BrightChamp-Assignment/static/js/453.022b4fbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4b45f0e.css",
+    "static/css/main.558a7b59.css",
     "static/js/main.2bfca480.js"
   ]
 }
