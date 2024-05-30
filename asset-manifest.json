@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BrightChamp-Assignment/static/css/main.4a24f4f8.css",
-    "main.js": "/BrightChamp-Assignment/static/js/main.a6c5f5f8.js",
+    "main.js": "/BrightChamp-Assignment/static/js/main.1ffc8bfa.js",
     "static/js/453.022b4fbf.chunk.js": "/BrightChamp-Assignment/static/js/453.022b4fbf.chunk.js",
     "static/media/monkey.png": "/BrightChamp-Assignment/static/media/monkey.aa3e44a164790fd4ef4a.png",
     "static/media/watermelon.jpg": "/BrightChamp-Assignment/static/media/watermelon.5b650d39adb9a03ae5e1.jpg",
@@ -19,11 +19,11 @@
     "static/media/C.jpg": "/BrightChamp-Assignment/static/media/C.9fa888e3236d7f37d8e1.jpg",
     "index.html": "/BrightChamp-Assignment/index.html",
     "main.4a24f4f8.css.map": "/BrightChamp-Assignment/static/css/main.4a24f4f8.css.map",
-    "main.a6c5f5f8.js.map": "/BrightChamp-Assignment/static/js/main.a6c5f5f8.js.map",
+    "main.1ffc8bfa.js.map": "/BrightChamp-Assignment/static/js/main.1ffc8bfa.js.map",
     "453.022b4fbf.chunk.js.map": "/BrightChamp-Assignment/static/js/453.022b4fbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a24f4f8.css",
-    "static/js/main.a6c5f5f8.js"
+    "static/js/main.1ffc8bfa.js"
   ]
 }
